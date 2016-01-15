@@ -1,0 +1,28 @@
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\PublicView.exe.config
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\PublicView.exe
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\PublicView.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\PublicView.Properties.Resources.resources
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\PublicView.csproj.GenerateResource.Cache
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\PublicView.exe
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\PublicView.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\PublicView.PublicViewScreen.resources
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\PublicView.exe.config
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.exe
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.pdb
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\PublicView.exe
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\PublicView.pdb
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\Chicken Slice\Public View\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.csprojResolveAssemblyReference.cache
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.PublicViewScreen.resources
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.Properties.Resources.resources
+C:\Vintage\Chicken Slice\Public View\Dispatcher\obj\Debug\PublicView.csproj.GenerateResource.Cache
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\PublicView.exe.config
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\PublicView.exe
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\PublicView.pdb

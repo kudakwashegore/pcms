@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIView", "Dispatcher\UIView.csproj", "{BDA747EF-C2CC-46C8-9A0C-4E938CF3DBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RueEngine", "RueEngine\RueEngine.csproj", "{796A7814-2B19-4573-8DC5-A3FF6E1137F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA747EF-C2CC-46C8-9A0C-4E938CF3DBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA747EF-C2CC-46C8-9A0C-4E938CF3DBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA747EF-C2CC-46C8-9A0C-4E938CF3DBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA747EF-C2CC-46C8-9A0C-4E938CF3DBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796A7814-2B19-4573-8DC5-A3FF6E1137F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796A7814-2B19-4573-8DC5-A3FF6E1137F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796A7814-2B19-4573-8DC5-A3FF6E1137F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796A7814-2B19-4573-8DC5-A3FF6E1137F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

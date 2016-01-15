@@ -1,0 +1,13 @@
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe.config
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\Dispatcher.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csprojResolveAssemblyReference.cache
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Properties.Resources.resources
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.GenerateResource.Cache
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.exe
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\Dispatcher\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Orders.resources

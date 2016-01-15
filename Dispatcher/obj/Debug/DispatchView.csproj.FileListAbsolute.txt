@@ -1,0 +1,56 @@
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe.config
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.csprojResolveAssemblyReference.cache
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.Properties.Resources.resources
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.csproj.GenerateResource.Cache
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\DispatchView.pdb
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.exe
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.pdb
+C:\Vintage\Chicken Slice\DispatchControl\Dispatcher\obj\Debug\DispatchView.DispatcherView.resources
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe.config
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.exe
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.pdb
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.pdb
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.csprojResolveAssemblyReference.cache
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.DispatcherView.resources
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.Properties.Resources.resources
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.csproj.GenerateResource.Cache
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe.manifest
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.application
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.exe.manifest
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.application
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\MySql.Data.dll
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\bin\Debug\MySql.Data.Entity.dll
+C:\Vintage\Chicken Slice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.SplashForm.resources
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe.config
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.exe
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.pdb
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe.manifest
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.application
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.exe
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\DispatchView.pdb
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\MySql.Data.dll
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\MySql.Data.Entity.dll
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\RueEngine.dll
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\EntityFramework.dll
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\RueEngine.pdb
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\bin\Debug\EntityFramework.xml
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.csprojResolveAssemblyReference.cache
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.DispatcherView.resources
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.Properties.Resources.resources
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.SplashForm.resources
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.csproj.GenerateResource.Cache
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.exe.manifest
+C:\Vintage\ChickenSlice\Approot\DispatchControl\Dispatcher\obj\Debug\DispatchView.application
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\DispatchView.exe.config
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\DispatchView.exe
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\DispatchView.pdb

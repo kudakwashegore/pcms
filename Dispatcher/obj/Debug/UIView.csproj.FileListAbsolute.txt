@@ -1,0 +1,55 @@
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\EntityFramework.dll
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.csprojResolveAssemblyReference.cache
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Drivers.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Main.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.MasterReport.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Properties.Resources.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Refills.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.SplashForm.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Trips.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.Vehicles.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.csproj.GenerateResource.Cache
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\RdlCompile.cache
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\RdlCompile.compiled
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.exe.config
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.exe.manifest
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.application
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.exe
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.pdb
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\AdvancedDataGridView.dll
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\MySql.Data.dll
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\MySql.Data.Entity.dll
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\RueEngine.dll
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\RueEngine.pdb
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\bin\Debug\EntityFramework.xml
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.exe.manifest
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.application
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.exe
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.pdb
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.DriversReport.resources
+C:\_Clients\Dicomm\Fleet Management\System\Dispatcher\obj\Debug\UIView.About.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.exe.config
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.exe
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\Fleet Manager.pdb
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.csprojResolveAssemblyReference.cache
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.About.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Drivers.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Main.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.DriversReport.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.MasterReport.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Properties.Resources.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Refills.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.SplashForm.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Trips.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.Vehicles.resources
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\UIView.csproj.GenerateResource.Cache
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\RdlCompile.cache
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\obj\Debug\RdlCompile.compiled
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.exe
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\Fleet Manager.pdb
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\MySql.Data.dll
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\MySql.Data.Entity.dll
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\RueEngine.dll
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\EntityFramework.dll
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\RueEngine.pdb
+C:\xampp\webalizer\vintage\Fleet Management\System\Dispatcher\bin\Debug\EntityFramework.xml
